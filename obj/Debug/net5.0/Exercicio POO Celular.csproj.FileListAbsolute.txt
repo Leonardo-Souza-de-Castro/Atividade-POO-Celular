@@ -1,0 +1,16 @@
+C:\Users\guilherme_2\Documents\trabalhos do leo\Senai\TUDO DE C#\Exercicio POO Celular\bin\Debug\net5.0\Exercicio POO Celular.exe
+C:\Users\guilherme_2\Documents\trabalhos do leo\Senai\TUDO DE C#\Exercicio POO Celular\bin\Debug\net5.0\Exercicio POO Celular.deps.json
+C:\Users\guilherme_2\Documents\trabalhos do leo\Senai\TUDO DE C#\Exercicio POO Celular\bin\Debug\net5.0\Exercicio POO Celular.runtimeconfig.json
+C:\Users\guilherme_2\Documents\trabalhos do leo\Senai\TUDO DE C#\Exercicio POO Celular\bin\Debug\net5.0\Exercicio POO Celular.runtimeconfig.dev.json
+C:\Users\guilherme_2\Documents\trabalhos do leo\Senai\TUDO DE C#\Exercicio POO Celular\bin\Debug\net5.0\Exercicio POO Celular.dll
+C:\Users\guilherme_2\Documents\trabalhos do leo\Senai\TUDO DE C#\Exercicio POO Celular\bin\Debug\net5.0\ref\Exercicio POO Celular.dll
+C:\Users\guilherme_2\Documents\trabalhos do leo\Senai\TUDO DE C#\Exercicio POO Celular\bin\Debug\net5.0\Exercicio POO Celular.pdb
+C:\Users\guilherme_2\Documents\trabalhos do leo\Senai\TUDO DE C#\Exercicio POO Celular\obj\Debug\net5.0\Exercicio POO Celular.csprojAssemblyReference.cache
+C:\Users\guilherme_2\Documents\trabalhos do leo\Senai\TUDO DE C#\Exercicio POO Celular\obj\Debug\net5.0\Exercicio POO Celular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilherme_2\Documents\trabalhos do leo\Senai\TUDO DE C#\Exercicio POO Celular\obj\Debug\net5.0\Exercicio POO Celular.AssemblyInfoInputs.cache
+C:\Users\guilherme_2\Documents\trabalhos do leo\Senai\TUDO DE C#\Exercicio POO Celular\obj\Debug\net5.0\Exercicio POO Celular.AssemblyInfo.cs
+C:\Users\guilherme_2\Documents\trabalhos do leo\Senai\TUDO DE C#\Exercicio POO Celular\obj\Debug\net5.0\Exercicio POO Celular.csproj.CoreCompileInputs.cache
+C:\Users\guilherme_2\Documents\trabalhos do leo\Senai\TUDO DE C#\Exercicio POO Celular\obj\Debug\net5.0\Exercicio POO Celular.dll
+C:\Users\guilherme_2\Documents\trabalhos do leo\Senai\TUDO DE C#\Exercicio POO Celular\obj\Debug\net5.0\ref\Exercicio POO Celular.dll
+C:\Users\guilherme_2\Documents\trabalhos do leo\Senai\TUDO DE C#\Exercicio POO Celular\obj\Debug\net5.0\Exercicio POO Celular.pdb
+C:\Users\guilherme_2\Documents\trabalhos do leo\Senai\TUDO DE C#\Exercicio POO Celular\obj\Debug\net5.0\Exercicio POO Celular.genruntimeconfig.cache
